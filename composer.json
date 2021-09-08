@@ -1,5 +1,5 @@
 {
-  "name": "rxnet/eventstore-client",
+  "name": "majidalaeinia/eventstore-client",
   "description": "EventStore asynchronous PHP client with reactiveX flavours",
   "type": "library",
   "keywords": [
